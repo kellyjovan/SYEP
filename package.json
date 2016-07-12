@@ -1,0 +1,14 @@
+{
+  "name"         : "cypressHillSYEP",
+  "version"      : "0.0.0",
+  "description"  : "Cypress Hill SYEP Application Site",
+  "main"         : "server.js",
+  "author"       : "Jovan",
+  "dependencies" : {
+    "express"           : "*",
+    "mongoose"          : "*",
+    "morgan"            : "*",
+    "body-parser"       : "*",
+    "method-override"   : "*"
+  }
+}
